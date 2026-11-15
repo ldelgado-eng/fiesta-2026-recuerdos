@@ -1,0 +1,386 @@
+﻿{
+    "photos":  [
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 08.42.01 (1).jpeg",
+                       "alt":  "Recuerdo 01 de la fiesta",
+                       "src":  "media/foto-001.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 08.42.01.jpeg",
+                       "alt":  "Recuerdo 02 de la fiesta",
+                       "src":  "media/foto-002.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 08.42.02.jpeg",
+                       "alt":  "Recuerdo 03 de la fiesta",
+                       "src":  "media/foto-003.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 08.42.04.jpeg",
+                       "alt":  "Recuerdo 04 de la fiesta",
+                       "src":  "media/foto-004.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.32.jpeg",
+                       "alt":  "Recuerdo 05 de la fiesta",
+                       "src":  "media/foto-005.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33 (1).jpeg",
+                       "alt":  "Recuerdo 06 de la fiesta",
+                       "src":  "media/foto-006.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33 (2).jpeg",
+                       "alt":  "Recuerdo 07 de la fiesta",
+                       "src":  "media/foto-007.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33 (3).jpeg",
+                       "alt":  "Recuerdo 08 de la fiesta",
+                       "src":  "media/foto-008.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33 (4).jpeg",
+                       "alt":  "Recuerdo 09 de la fiesta",
+                       "src":  "media/foto-009.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33 (5).jpeg",
+                       "alt":  "Recuerdo 10 de la fiesta",
+                       "src":  "media/foto-010.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33 (6).jpeg",
+                       "alt":  "Recuerdo 11 de la fiesta",
+                       "src":  "media/foto-011.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33 (7).jpeg",
+                       "alt":  "Recuerdo 12 de la fiesta",
+                       "src":  "media/foto-012.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33 (8).jpeg",
+                       "alt":  "Recuerdo 13 de la fiesta",
+                       "src":  "media/foto-013.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33 (9).jpeg",
+                       "alt":  "Recuerdo 14 de la fiesta",
+                       "src":  "media/foto-014.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.33.jpeg",
+                       "alt":  "Recuerdo 15 de la fiesta",
+                       "src":  "media/foto-015.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (1).jpeg",
+                       "alt":  "Recuerdo 16 de la fiesta",
+                       "src":  "media/foto-016.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (10).jpeg",
+                       "alt":  "Recuerdo 17 de la fiesta",
+                       "src":  "media/foto-017.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (2).jpeg",
+                       "alt":  "Recuerdo 18 de la fiesta",
+                       "src":  "media/foto-018.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (3).jpeg",
+                       "alt":  "Recuerdo 19 de la fiesta",
+                       "src":  "media/foto-019.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (4).jpeg",
+                       "alt":  "Recuerdo 20 de la fiesta",
+                       "src":  "media/foto-020.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (5).jpeg",
+                       "alt":  "Recuerdo 21 de la fiesta",
+                       "src":  "media/foto-021.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (6).jpeg",
+                       "alt":  "Recuerdo 22 de la fiesta",
+                       "src":  "media/foto-022.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (7).jpeg",
+                       "alt":  "Recuerdo 23 de la fiesta",
+                       "src":  "media/foto-023.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (8).jpeg",
+                       "alt":  "Recuerdo 24 de la fiesta",
+                       "src":  "media/foto-024.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34 (9).jpeg",
+                       "alt":  "Recuerdo 25 de la fiesta",
+                       "src":  "media/foto-025.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.34.jpeg",
+                       "alt":  "Recuerdo 26 de la fiesta",
+                       "src":  "media/foto-026.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.35 (1).jpeg",
+                       "alt":  "Recuerdo 27 de la fiesta",
+                       "src":  "media/foto-027.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.35 (2).jpeg",
+                       "alt":  "Recuerdo 28 de la fiesta",
+                       "src":  "media/foto-028.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.06.35.jpeg",
+                       "alt":  "Recuerdo 29 de la fiesta",
+                       "src":  "media/foto-029.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.53 (1).jpeg",
+                       "alt":  "Recuerdo 30 de la fiesta",
+                       "src":  "media/foto-030.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.53 (2).jpeg",
+                       "alt":  "Recuerdo 31 de la fiesta",
+                       "src":  "media/foto-031.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.53.jpeg",
+                       "alt":  "Recuerdo 32 de la fiesta",
+                       "src":  "media/foto-032.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.54 (1).jpeg",
+                       "alt":  "Recuerdo 33 de la fiesta",
+                       "src":  "media/foto-033.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.54 (2).jpeg",
+                       "alt":  "Recuerdo 34 de la fiesta",
+                       "src":  "media/foto-034.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.54 (3).jpeg",
+                       "alt":  "Recuerdo 35 de la fiesta",
+                       "src":  "media/foto-035.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.54 (4).jpeg",
+                       "alt":  "Recuerdo 36 de la fiesta",
+                       "src":  "media/foto-036.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.54 (5).jpeg",
+                       "alt":  "Recuerdo 37 de la fiesta",
+                       "src":  "media/foto-037.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.54 (6).jpeg",
+                       "alt":  "Recuerdo 38 de la fiesta",
+                       "src":  "media/foto-038.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.54 (7).jpeg",
+                       "alt":  "Recuerdo 39 de la fiesta",
+                       "src":  "media/foto-039.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.54 (8).jpeg",
+                       "alt":  "Recuerdo 40 de la fiesta",
+                       "src":  "media/foto-040.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.54.jpeg",
+                       "alt":  "Recuerdo 41 de la fiesta",
+                       "src":  "media/foto-041.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.55 (1).jpeg",
+                       "alt":  "Recuerdo 42 de la fiesta",
+                       "src":  "media/foto-042.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.55 (2).jpeg",
+                       "alt":  "Recuerdo 43 de la fiesta",
+                       "src":  "media/foto-043.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.55 (3).jpeg",
+                       "alt":  "Recuerdo 44 de la fiesta",
+                       "src":  "media/foto-044.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.55 (4).jpeg",
+                       "alt":  "Recuerdo 45 de la fiesta",
+                       "src":  "media/foto-045.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.55 (5).jpeg",
+                       "alt":  "Recuerdo 46 de la fiesta",
+                       "src":  "media/foto-046.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.55 (6).jpeg",
+                       "alt":  "Recuerdo 47 de la fiesta",
+                       "src":  "media/foto-047.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.55 (7).jpeg",
+                       "alt":  "Recuerdo 48 de la fiesta",
+                       "src":  "media/foto-048.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.55 (8).jpeg",
+                       "alt":  "Recuerdo 49 de la fiesta",
+                       "src":  "media/foto-049.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.55.jpeg",
+                       "alt":  "Recuerdo 50 de la fiesta",
+                       "src":  "media/foto-050.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.56 (1).jpeg",
+                       "alt":  "Recuerdo 51 de la fiesta",
+                       "src":  "media/foto-051.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.56 (2).jpeg",
+                       "alt":  "Recuerdo 52 de la fiesta",
+                       "src":  "media/foto-052.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.56 (3).jpeg",
+                       "alt":  "Recuerdo 53 de la fiesta",
+                       "src":  "media/foto-053.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.56 (4).jpeg",
+                       "alt":  "Recuerdo 54 de la fiesta",
+                       "src":  "media/foto-054.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.56 (5).jpeg",
+                       "alt":  "Recuerdo 55 de la fiesta",
+                       "src":  "media/foto-055.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.56 (6).jpeg",
+                       "alt":  "Recuerdo 56 de la fiesta",
+                       "src":  "media/foto-056.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.56 (7).jpeg",
+                       "alt":  "Recuerdo 57 de la fiesta",
+                       "src":  "media/foto-057.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.56 (8).jpeg",
+                       "alt":  "Recuerdo 58 de la fiesta",
+                       "src":  "media/foto-058.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.56.jpeg",
+                       "alt":  "Recuerdo 59 de la fiesta",
+                       "src":  "media/foto-059.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.57 (1).jpeg",
+                       "alt":  "Recuerdo 60 de la fiesta",
+                       "src":  "media/foto-060.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.57 (2).jpeg",
+                       "alt":  "Recuerdo 61 de la fiesta",
+                       "src":  "media/foto-061.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.57 (3).jpeg",
+                       "alt":  "Recuerdo 62 de la fiesta",
+                       "src":  "media/foto-062.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.57 (4).jpeg",
+                       "alt":  "Recuerdo 63 de la fiesta",
+                       "src":  "media/foto-063.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.57 (5).jpeg",
+                       "alt":  "Recuerdo 64 de la fiesta",
+                       "src":  "media/foto-064.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.57 (6).jpeg",
+                       "alt":  "Recuerdo 65 de la fiesta",
+                       "src":  "media/foto-065.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.57 (7).jpeg",
+                       "alt":  "Recuerdo 66 de la fiesta",
+                       "src":  "media/foto-066.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.57.jpeg",
+                       "alt":  "Recuerdo 67 de la fiesta",
+                       "src":  "media/foto-067.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.58 (1).jpeg",
+                       "alt":  "Recuerdo 68 de la fiesta",
+                       "src":  "media/foto-068.jpg"
+                   },
+                   {
+                       "original":  "WhatsApp Image 2026-11-15 at 11.08.58.jpeg",
+                       "alt":  "Recuerdo 69 de la fiesta",
+                       "src":  "media/foto-069.jpg"
+                   }
+               ],
+    "videos":  [
+                   {
+                       "title":  "El comienzo de la fiesta",
+                       "original":  "WhatsApp Video 2026-11-15 at 08.42.03.mp4",
+                       "src":  "media/video-01.mp4"
+                   },
+                   {
+                       "title":  "Un momento para recordar",
+                       "original":  "WhatsApp Video 2026-11-15 at 11.06.35 (1).mp4",
+                       "src":  "media/video-02.mp4"
+                   },
+                   {
+                       "title":  "Un momento para recordar",
+                       "original":  "WhatsApp Video 2026-11-15 at 11.06.35 (2).mp4",
+                       "src":  "media/video-03.mp4"
+                   },
+                   {
+                       "title":  "Un momento para recordar",
+                       "original":  "WhatsApp Video 2026-11-15 at 11.06.35 (3).mp4",
+                       "src":  "media/video-04.mp4"
+                   },
+                   {
+                       "title":  "Un momento para recordar",
+                       "original":  "WhatsApp Video 2026-11-15 at 11.06.35.mp4",
+                       "src":  "media/video-05.mp4"
+                   },
+                   {
+                       "title":  "La fiesta sigue",
+                       "original":  "WhatsApp Video 2026-11-15 at 11.08.58 (1).mp4",
+                       "src":  "media/video-06.mp4"
+                   },
+                   {
+                       "title":  "La fiesta sigue",
+                       "original":  "WhatsApp Video 2026-11-15 at 11.08.58.mp4",
+                       "src":  "media/video-07.mp4"
+                   }
+               ]
+}
